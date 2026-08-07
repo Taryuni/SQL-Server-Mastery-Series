@@ -2,11 +2,12 @@
 
 **SQL Server Mastery Series** | by Taryuni | Published by Bitotol
 
-<p align="center">
-  <img src="front-cover.png" alt="SQL Server Fundamentals — Book 1 of the SQL Server Mastery Series by Taryuni" width="380">
-</p>
-
----
+<table>
+<tr>
+<td width="300" valign="top">
+  <img src="front-cover.png" alt="SQL Server Fundamentals — Book 1 of the SQL Server Mastery Series by Taryuni" width="280">
+</td>
+<td valign="top">
 
 ## What This Book Is
 
@@ -17,6 +18,10 @@ Most SQL Server books are written for one of two audiences: developers who alrea
 This book was.
 
 It builds directly on what you already know. It does not re-teach what you've spent years learning. It takes you, without detour or padding, into how SQL Server actually works, what a DBA actually does, and how to do the job with real competence.
+
+</td>
+</tr>
+</table>
 
 ---
 
