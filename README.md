@@ -56,7 +56,7 @@ SQL-Server-Mastery-Series/
 │       ├── 04-catalog.sql
 │       ├── 05-operations.sql
 │       └── 06-finance.sql
-├── book01-sql-server-fundamentals/
+├── Book01-SQL-Server-Fundamentals/
 │   ├── README.md
 │   └── scripts/
 │       ├── ch04-ssms-queries.sql
@@ -66,9 +66,9 @@ SQL-Server-Mastery-Series/
 │       ├── ch08-tsql-for-dbas.sql
 │       ├── ch09-monitoring.sql
 │       └── ch10-routine-maintenance.sql
-├── book02-performance-tuning/
+├── Book02-Performance-Tuning/
 │   └── README.md
-├── book03-backup-recovery/
+├── Book03-Backup-Recovery/
 │   └── README.md
 └── ...                                  ← Books 4–10 added as they release
 ```
