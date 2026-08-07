@@ -238,3 +238,4 @@ The `master` database paths will show you the default data and log directories f
 | `04-catalog.sql` | Commercial | RateCards |
 | `05-operations.sql` | Shipments | Shipments, Packages, FreightBills, Pallets, TrackingEvents |
 | `06-finance.sql` | Commercial | Invoices, InvoiceLineItems, Payments |
+ 
