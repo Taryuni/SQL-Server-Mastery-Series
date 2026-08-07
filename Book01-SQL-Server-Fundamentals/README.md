@@ -5,7 +5,7 @@
 <table>
 <tr>
 <td width="300" valign="top">
-  <img src="front-cover.png" alt="SQL Server Fundamentals — Book 1 of the SQL Server Mastery Series by Taryuni" width="280">
+  <img src="../covers/book01.png" alt="SQL Server Fundamentals — Book 1 of the SQL Server Mastery Series by Taryuni" width="280">
 </td>
 <td valign="top">
 
