@@ -1,0 +1,22 @@
+-- =============================================================================
+-- Chapter 6 — SQL Server Services: What's Running Under the Hood
+-- SQL Server Fundamentals | SQL Server Mastery Series
+-- Author: Taryuni
+-- =============================================================================
+-- Chapter 6 is a conceptual chapter. It covers what SQL Server Agent, SQL
+-- Server Browser, SSAS, SSIS, and SSRS are, and how the Windows Services
+-- panel and SQL Server Configuration Manager are used to manage them.
+--
+-- No T-SQL queries are introduced in this chapter. All tasks are performed
+-- through:
+--   - Windows Services (services.msc)
+--   - SQL Server Configuration Manager
+--   - SQL Server Management Studio (SQL Server Agent node in Object Explorer)
+--
+-- See Chapter 6 for step-by-step guidance on:
+--   - Viewing all running SQL Server services
+--   - Starting and stopping SQL Server Agent
+--   - Checking service account configurations
+--   - Understanding startup types (Automatic / Manual / Disabled)
+--   - Creating your first SQL Server Agent job
+-- =============================================================================
