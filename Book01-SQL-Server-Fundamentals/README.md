@@ -154,4 +154,4 @@ Around 28,000–32,000 words. At 45 minutes to an hour per evening, most readers
 
 ## Series Navigation
 
-← [Series Overview](../README.md) | Next: [Book 2 — Performance Tuning](../book02-performance-tuning/README.md) →
+← [Series Overview](../README.md) | Next: [Book 2 — Performance Tuning](../Book02-Performance-Tuning/README.md) →
