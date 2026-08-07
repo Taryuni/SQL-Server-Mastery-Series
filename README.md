@@ -18,18 +18,18 @@ This repository contains the companion code for the entire series: the shared Ta
 
 ## Books in This Series
 
-| # | Title | What You'll Learn | Status |
-|---|-------|-------------------|--------|
-| 1 | **SQL Server Fundamentals** | Installation, SSMS, databases and storage, services, logins and permissions, T-SQL for DBAs, monitoring, and routine maintenance | Available |
-| 2 | **Performance Tuning** | Execution plans, index design, wait statistics, blocking and deadlocks, parameter sniffing, Query Store, memory configuration | Coming soon |
-| 3 | **Backup and Recovery** | Recovery models, backup chains, RESTORE syntax, point-in-time recovery, RTO/RPO, backup automation, disaster recovery planning | Coming soon |
-| 4 | **High Availability and Disaster Recovery** | Always On Availability Groups, failover clustering, log shipping, hybrid HA architecture | Planned |
-| 5 | **Database Security** | Auditing, encryption, row-level security, server hardening, compliance fundamentals | Planned |
-| 6 | **T-SQL for Database Professionals** | Window functions, CTEs, dynamic SQL, error handling, advanced query patterns for DBA work | Planned |
-| 7 | **Monitoring and Alerting** | SQL Server Agent, extended events, custom alert frameworks, building a production monitoring routine | Planned |
-| 8 | **Automation and Scripting** | PowerShell, dbatools, scheduled maintenance at scale, automating repetitive DBA tasks | Planned |
-| 9 | **Azure SQL and Cloud Migration** | Moving on-premises workloads to Azure, managed instances, hybrid architecture, what changes in the cloud | Planned |
-| 10 | **The DBA Career Playbook** | Interviews, salary negotiation, specialization paths, certifications, what senior actually looks like | Planned |
+| Cover | # | Title | What You'll Learn | Status |
+|-------|---|-------|-------------------|--------|
+| <img src="covers/book01.png" width="80"> | 1 | **SQL Server Fundamentals** | Installation, SSMS, databases and storage, services, logins and permissions, T-SQL for DBAs, monitoring, and routine maintenance | Available |
+| <img src="covers/no-cover.png" width="80"> | 2 | **Performance Tuning** | Execution plans, index design, wait statistics, blocking and deadlocks, parameter sniffing, Query Store, memory configuration | Coming soon |
+| <img src="covers/no-cover.png" width="80"> | 3 | **Backup and Recovery** | Recovery models, backup chains, RESTORE syntax, point-in-time recovery, RTO/RPO, backup automation, disaster recovery planning | Coming soon |
+| <img src="covers/no-cover.png" width="80"> | 4 | **High Availability and Disaster Recovery** | Always On Availability Groups, failover clustering, log shipping, hybrid HA architecture | Planned |
+| <img src="covers/no-cover.png" width="80"> | 5 | **Database Security** | Auditing, encryption, row-level security, server hardening, compliance fundamentals | Planned |
+| <img src="covers/no-cover.png" width="80"> | 6 | **T-SQL for Database Professionals** | Window functions, CTEs, dynamic SQL, error handling, advanced query patterns for DBA work | Planned |
+| <img src="covers/no-cover.png" width="80"> | 7 | **Monitoring and Alerting** | SQL Server Agent, extended events, custom alert frameworks, building a production monitoring routine | Planned |
+| <img src="covers/no-cover.png" width="80"> | 8 | **Automation and Scripting** | PowerShell, dbatools, scheduled maintenance at scale, automating repetitive DBA tasks | Planned |
+| <img src="covers/no-cover.png" width="80"> | 9 | **Azure SQL and Cloud Migration** | Moving on-premises workloads to Azure, managed instances, hybrid architecture, what changes in the cloud | Planned |
+| <img src="covers/no-cover.png" width="80"> | 10 | **The DBA Career Playbook** | Interviews, salary negotiation, specialization paths, certifications, what senior actually looks like | Planned |
 
 ---
 
